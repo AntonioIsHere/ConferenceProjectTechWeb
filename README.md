@@ -91,6 +91,3 @@ npm run dev
 │   └── package.json
 └── README.md
 ```
-
-## License
-MIT
